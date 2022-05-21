@@ -1,0 +1,21 @@
+{
+  "country": "England",
+  "@country":{
+    "description": "Country"
+  },
+
+  "language": "English",
+  "@language":{
+    "description": "Language"
+  },
+
+  "selectLanguage": "Select Language",
+  "@selectLanguage": {
+    "description": "Select Language"
+  },
+
+  "index": "0",
+  "@index":{
+    "description": "ThemeData Index"
+  }
+}
